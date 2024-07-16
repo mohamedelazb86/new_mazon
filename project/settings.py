@@ -39,9 +39,20 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
+
     # my package
 
     "django_bootstrap5",
+     "taggit",
+     'django_summernote',
+
+    # my apps
+
+    'posts',
+    'products',
+
+
+    
 ]
 
 MIDDLEWARE = [
