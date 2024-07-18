@@ -45,6 +45,8 @@ INSTALLED_APPS = [
     "django_bootstrap5",
      "taggit",
      'django_summernote',
+     'rest_framework',
+     'drf_yasg',
 
     # my apps
 
